@@ -7,3 +7,4 @@ Created on Thu Sep  3 18:33:20 2026
 """
 
 print("Hello Pegah")
+print(1+1)
